@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-immense-networks",
+  "version": "0.1.0",
+  "description": "ESLint rules for Javascript projects at Immense Networks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/immense/eslint-config-immense-networks.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "immense-networks"
+  ],
+  "author": "Christian Bankester <cbankester@immense.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immense/eslint-config-immense-networks/issues"
+  },
+  "homepage": "https://github.com/immense/eslint-config-immense-networks#readme",
+  "dependencies": {
+    "babel-eslint": "3.x"
+  }
+}
